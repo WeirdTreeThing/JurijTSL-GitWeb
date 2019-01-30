@@ -9,17 +9,32 @@ item-link-1=potion.wiki
 item-label-1=Home
 item-icon-1=HOME
 
-item-link-2=potion.wiki/about
-item-label-2=About
-item-icon-2=INFO
+item-link-2=potion.wiki/potions
+item-label-2=Potions
+
+
+item-link-3=potion.wiki/about
+item-label-3=About
+item-icon-3=INFO
+
+
+#header
+text=Welcome
+scale=2
+
+#paragraph
+text=Welcome to potion wiki. On this site you can find how to make a certain potion.
 
 
 
 #header
-text=&lWelcome
+text=How to use potion.wiki
+scale=2
+
 
 #paragraph
-text=Welcome to potion wiki. On this site you can find how to make a certain potion.
+text=Click on Potions in navigation. Select between given options. Click on potion and get recipe.
+
 
 #footer
 title=PotionWiki
